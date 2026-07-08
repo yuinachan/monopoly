@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.21.5] - 2026-07-08
+
+### 🛠️ Bug Fixes
+
+- *(uob)* Support current/savings account (debit) statements
+
+### Build
+
+- *(deps)* Bump actions/checkout from 6 to 7
+
 ## [0.21.4] - 2026-06-21
 
 ### 🛠️ Bug Fixes
